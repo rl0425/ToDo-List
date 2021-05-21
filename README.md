@@ -1,4 +1,4 @@
-# ToDo List for JS
+# ToDo List
 This is a ToDolist developed by Vanilla JS.
 ## Features
 - ToDolist developed by Vanilla JS.
